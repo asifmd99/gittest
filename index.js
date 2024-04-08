@@ -1,8 +1,5 @@
 const x=7
-
+abc
 var p=0
-abc
+
 var x=0
-abc
-abc
-abc
